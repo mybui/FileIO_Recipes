@@ -33,5 +33,6 @@ Recipes:
 - Ingredient: gg
 
 Recipes:
+
 ---
 - Enter command:  stop
