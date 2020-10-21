@@ -1,13 +1,14 @@
-File reading: recipes
-Sample output
-- File to read: recipes.txt
-
+# File reading: recipes
+--- 
 Commands:
 - list - lists the recipes
 - stop - stops the program
 - find name - searches recipes by name
 - find cooking time - searches recipes by cooking time
 - find ingredient - searches recipes by ingredient
+---
+Sample output
+- File to read: recipes.txt
 ---
 - Enter command: find cooking time
 - Max cooking time: 30
